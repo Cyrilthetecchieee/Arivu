@@ -1,0 +1,5 @@
+{
+  "name": "Arivu",
+  "description": "A visual-first, cinematic learning platform for deep wisdom and active recall, supporting multiple Indian languages.",
+  "requestFramePermissions": ["microphone"]
+}
